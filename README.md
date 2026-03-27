@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bhavishya%20Kumar&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20CS%20Student%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+AI+Powered+Solutions+%F0%9F%A4%96;Computer+Science+Engineering+%40+DBS+Global+University+%F0%9F%8E%93;Turning+Ideas+Into+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=50&lines=Building+AI+Powered+Solutions+%F0%9F%A4%96;CS+Engineering+%40+DBS+Global+University+%F0%9F%8E%93;Turning+Ideas+Into+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
